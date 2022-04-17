@@ -1,0 +1,61 @@
+.page{
+    background-color: rgb(151, 151, 151);
+    justify-content: center;
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+    padding-top: 5ch;
+    
+}
+.card {
+     border-radius: 5%;
+    background-color:rgb(255, 255, 255);
+    align-content: center;
+    width: 595px;
+    height: 842px;
+    padding: auto;
+    box-shadow: 100px;
+}
+
+.title{
+    padding-left: 8.2ch;
+    font-style: bold;
+    font-size:larger;
+    padding-top: 10ch;
+}
+
+.paragraph {
+    padding-top: 1ch;
+    padding-left: 10ch;
+    padding-right: 10ch;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn{
+    padding-top: 1ch;
+    padding-left: 10ch;
+    padding-right: 10ch;
+}
+
+.download{
+    padding-top: 1ch;
+    padding-left: 10ch;
+    padding-right: 10ch;
+}
+
+.media{
+    padding-top: 1ch;
+    text-align: center;
+    padding-left: 10ch;
+    padding-right: 10ch;
+}
+
+.inner{
+    text-align: center;
+    padding-left: 10ch;
+    padding-right: 10ch;
+}
